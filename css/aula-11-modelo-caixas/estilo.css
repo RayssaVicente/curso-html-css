@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+#noticia{
+    background-color: rgb(244, 240, 240);
+   border: 1px solid gray;
+   padding: 10px;
+}
+
+h2{
+    margin: 0px;
+}
