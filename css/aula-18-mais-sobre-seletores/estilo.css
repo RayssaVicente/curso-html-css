@@ -1,0 +1,38 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: blueviolet;
+}
+
+.verde{
+    color: darkgreen;
+}
+
+p.verde{
+    color: blue;
+    font-weight: bold;
+}
+
+#cabecalho{
+    font-weight: bold;
+
+}
+
+li > a{
+    color:aqua;
+}
+
+p a{
+    background-color: brown;
+    color: white;
+}
+
+h1 + p{
+    background-color: deeppink;
+}
+
+h1 ~ p{
+    background-color: mediumslateblue;
+}
